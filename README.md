@@ -1,3 +1,3 @@
-# conflict4
+REMOTE
 hello world
 how are us 
